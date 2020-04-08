@@ -1,0 +1,9 @@
+La entrega se divide en dos códigos exactamente iguales salvo que:
+
+Uno tiene el código final sin comentarios y el otro tiene los comentarios que reflejan algunos de los cambios que hicimos
+pero acabamos desechando
+
+
+Además mencionar que en el pdf casí no hemos hablado de algunos bucles (al tener tantas cosas de las que hablar en 4 caras),
+decidimos centrarnos en los que más peso tenían, eso no quiere decir que hayamos ignorado bucles como los del puntos 3 o el 4.7 
+los cuales tambien hemos paralelizado y/o trabajado sobre ellos
